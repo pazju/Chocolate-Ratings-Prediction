@@ -14,3 +14,5 @@ The project was made using Python and Colab. The code contains multiple tests on
 
 CONCLUSION:
 The data given in the dataset is quite decorrelated to each other, demonstrating why the existence of chocolate tasters (people) and that the dataset can be improved if you want to analyze it using a machine learning model
+
+Made by: Juan Camilo Paz and Juan José Pinilla
