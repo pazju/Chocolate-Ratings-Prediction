@@ -15,4 +15,4 @@ The project was made using Python and Colab. The code contains multiple tests on
 6. Finally the model is retrained with all the data and these are the results: ![image](https://user-images.githubusercontent.com/98425571/169710369-d054fa12-e67a-4e82-88ec-2d24f603ee19.png)
 
 CONCLUSION:
-The data given in the dataset is quite decorrelated to each other, demonstrating why the existence of chocolate tasters (people) and that the dataset can be improved if you want to analyze it using a machine learning model
+The data given in the dataset is quite decorrelated to each other, demonstrating why the existence of chocolate tasters (people) and that the dataset can be improved if you want to analyze it using a machine learning model.
