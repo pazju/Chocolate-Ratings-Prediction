@@ -1,5 +1,6 @@
 # Chocolate-Ratings-Prediction
 Made by: Juan Camilo Paz and Juan José Pinilla
+
 In this project you will find a Chocolate Rating Predictor based on a dataset obtained in Kaggle.
 The dataset used can be found in the following link: https://www.kaggle.com/datasets/andrewmvd/chocolate-ratings
 ![image](https://user-images.githubusercontent.com/98425571/169709868-941126cb-ae21-4aba-9488-5613c5964369.png)
